@@ -5,20 +5,6 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <span > <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" /> <img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" /> <img src="https://img.shields.io/badge/-Go-blue?style=flat-73cddc&logo=Go&logoColor=white" /> <img src="https://img.shields.io/badge/-Cpp-purple?style=flat-square&logo=C&logoColor=white" /></span>
 
 <span > <img src="https://img.shields.io/badge/-Python-306998?style=flat-square&logo=Python&logoColor=white" /><img src="https://img.shields.io/badge/-Docker-0199c4?style=flat-square&logo=docker&logoColor=white" />  <img src="https://img.shields.io/badge/-Vue-42b883?style=flat-square&logo=V&logoColor=white" /> <img src="https://img.shields.io/badge/-linux-blue?style=flat-333333&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/-Mysql-F29111?style=flat-square&logo=mysql&logoColor=white" /></span>
