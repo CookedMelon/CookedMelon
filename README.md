@@ -7,7 +7,7 @@
 
 #### Technologies:
 
-![skillicons](https://skillicons.dev/icons?i=go,py,nodejs,js,ts,html,css,c,cpp,vue,azure,docker,cmake,git,github,gitlab,linux,mysql,postgresql,md,latex,v,vscode,nginx,postman,powershell,pytorch,django,bash,rabbitmq)
+![skillicons](https://skillicons.dev/icons?i=go,py,nodejs,js,ts,html,css,c,cpp,vue,php,java,matlab,ai,azure,docker,cmake,git,github,gitlab,linux,mysql,postgresql,md,latex,v,vscode,visualstudio,vim,eclipse,idea,nginx,postman,stackoverflow,powershell,pytorch,tensorflow,django,threejs,bash,rabbitmq,arduino,androidstudio)
 
 #### Monthly Coding:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=CookedMelon&show_icons=true&locale=en&layout=compact&hide=html&langs_count=8)](https://github.com/CookedMelon/)
