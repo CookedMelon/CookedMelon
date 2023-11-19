@@ -1,5 +1,5 @@
 ### Hi, Here is @CookedMelon
-- Here is my email, cc2414635846@gmail.com
+- My email, chichen241@gmail.com
   
 #### Stats:
 
